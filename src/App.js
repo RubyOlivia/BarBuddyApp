@@ -1,4 +1,4 @@
-import logo from './;
+import logo from './bartender.jpg
 import './App.css';
 
 function App() {
