@@ -1,4 +1,4 @@
-import logo from '';
+import logo from './cokctail.png';
 import './App.css';
 
 function App() {
