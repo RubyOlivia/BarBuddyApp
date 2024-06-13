@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bar Buddy App 
+          Bar Buddy App !!
         </a>
       </header>
     </div>
