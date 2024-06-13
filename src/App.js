@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './cassis.jfif';
 import './App.css';
 
 function App() {
