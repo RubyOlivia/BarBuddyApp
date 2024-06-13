@@ -1,4 +1,4 @@
-import logo from './';
+import logo from './png-clipart-cocktail-bartender-bartender-bartender-miscellaneous-wine-glass-thumbnail.png';
 import './App.css';
 
 function App() {
