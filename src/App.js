@@ -1,4 +1,4 @@
-import logo from './Tini-Photoroom.png';
+import logo from './';
 import './App.css';
 
 function App() {
