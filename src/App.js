@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
+        <h2>
           Input ingredients and we'll tell you what drinks you can make!
-        </h1>
+        </h2>
 
       </header>
     </div>
