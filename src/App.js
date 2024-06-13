@@ -1,4 +1,4 @@
-import logo from './cassis.jfif';
+import logo from './Tini-Photoroom.png';
 import './App.css';
 
 function App() {
