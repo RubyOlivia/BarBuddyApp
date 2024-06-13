@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
 
 .App-header {
   background:linear-gradient(rgba(250,0,0,0.5),transparent);
